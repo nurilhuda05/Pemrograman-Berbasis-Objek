@@ -9,7 +9,6 @@ public class Demo {
         l1.upgradeRam(8);
         l1.cetakInfo();
         l1.matikan();
-
         System.out.println();
 
         // Printer
